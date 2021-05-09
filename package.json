@@ -53,7 +53,7 @@
     "electron-squirrel-startup": "^1.0.0",
     "handlebars": "4.1.0",
     "js-yaml": "3.13.0",
-    "lodash": "4.17.5",
+    "lodash": "4.17.21",
     "mime": "1.4.1",
     "request": "^2.88.0",
     "uglify-js": "2.6.0"
